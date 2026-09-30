@@ -1,0 +1,12 @@
+.Sangue { color: #570000; }
+.Morte { color: #001011; }
+.Energia { color: #F26DF9; }
+.Conhecimento { color: #E59500; }
+.Medo { color: #56667A; }
+body {
+    background-color: #eae6ea;
+    font-family: Times New Roman, serif;}
+    
+img{
+    width: 450px;
+    height: 150px;}
